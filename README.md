@@ -1,7 +1,7 @@
 # Olá! Eu sou Maria Clara 👋
 
 🎓 Estudante de Engenharia de Software na UCB  
-💡 Interessada em Desenvolvimento, BI, IA e MicroSaaS  
+💡 Interessada em Desenvolvimento, Java e SQL  
 📚 Aprendendo sempre!  
 
 🔗 Conecte-se comigo:  
